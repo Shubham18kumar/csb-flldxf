@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "https://shubham18kumar.github.io/csb-flldxf/static/js/main.914fe783.chunk.js",
+    "main.js.map": "https://shubham18kumar.github.io/csb-flldxf/static/js/main.914fe783.chunk.js.map",
+    "runtime-main.js": "https://shubham18kumar.github.io/csb-flldxf/static/js/runtime-main.01546019.js",
+    "runtime-main.js.map": "https://shubham18kumar.github.io/csb-flldxf/static/js/runtime-main.01546019.js.map",
+    "index.html": "https://shubham18kumar.github.io/csb-flldxf/index.html",
+    "precache-manifest.f4cc75f4ac0f0bccf4b8950728dffad1.js": "https://shubham18kumar.github.io/csb-flldxf/precache-manifest.f4cc75f4ac0f0bccf4b8950728dffad1.js",
+    "service-worker.js": "https://shubham18kumar.github.io/csb-flldxf/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01546019.js",
+    "static/js/main.914fe783.chunk.js"
+  ]
+}
